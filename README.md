@@ -1,4 +1,4 @@
-**Iris Segmentation Project** :
+**Iris Segmentation Project** 
 
 ***Project Description***
 This project focuses on implementing a robust iris segmentation technique using computer vision and image processing. It aims to isolate and preprocess the iris region from eye images to facilitate accurate biometric recognition. Applications include identity verification, secure access control, and more.
